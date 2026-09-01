@@ -31,3 +31,6 @@ The completed repository should contain:
 
 * A short project description
 * The names of both contributors
+
+## Description
+This project demonstrates collaborative development using Git.
